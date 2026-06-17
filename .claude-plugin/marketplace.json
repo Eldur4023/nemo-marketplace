@@ -1,0 +1,16 @@
+{
+  "name": "nemo",
+  "owner": { "name": "burnt" },
+  "metadata": {
+    "description": "Nemo — persistent memory for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "nemo",
+      "source": "./plugins/nemo",
+      "description": "Persistent, concept-oriented memory: Nemo MCP connector (OAuth) + auto boot/recall on every session.",
+      "version": "0.1.0"
+    }
+  ]
+}

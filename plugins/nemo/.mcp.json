@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nemo": {
+      "type": "http",
+      "url": "https://burnt.ovh/mcp"
+    }
+  }
+}

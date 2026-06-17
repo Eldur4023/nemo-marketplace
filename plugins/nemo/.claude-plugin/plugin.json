@@ -1,0 +1,7 @@
+{
+  "name": "nemo",
+  "version": "0.1.0",
+  "description": "Nemo persistent memory: remote MCP connector (OAuth) + session-start boot + auto-recall + slash commands.",
+  "author": { "name": "burnt" },
+  "keywords": ["memory", "mcp", "persistent", "knowledge-graph"]
+}
