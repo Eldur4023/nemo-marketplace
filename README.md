@@ -6,7 +6,7 @@ plugin (MCP connector config, hooks, commands) — **no server source code**.
 ## Install
 
 ```
-/plugin marketplace add <owner>/<repo>      # this repo
+/plugin marketplace add Eldur4023/nemo-marketplace      # this repo
 /plugin install nemo@nemo
 ```
 
